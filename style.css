@@ -32,6 +32,9 @@ main {
     padding: 20px;
 }
 
+.container {
+    max-width: 11122px;
+}   
 .receitas-section {
     display: flex;
     flex-wrap: wrap;
